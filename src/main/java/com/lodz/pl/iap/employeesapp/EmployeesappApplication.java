@@ -10,5 +10,4 @@ public class EmployeesappApplication {
         SpringApplication.run(EmployeesappApplication.class, args);
         System.out.println("asdf");
     }
-
 }
