@@ -8,7 +8,6 @@ public class EmployeesappApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(EmployeesappApplication.class, args);
-        //sjdiojdioj
     }
 
 }
